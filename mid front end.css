@@ -1,0 +1,298 @@
+body{
+    margin: 0;
+    padding: 0;;
+}
+header{
+    background: purple;
+    width: 500mm;
+    height: 50px;
+}
+#judul_kecil{
+    position: relative;
+    bottom: 15mm;
+    margin-left: 8mm;
+    font-size: 25px;
+    color: white;
+}
+
+#fitur1{
+    position: relative;
+    margin-left: 105mm;
+    bottom: 26mm;
+    color: white;
+}
+#fitur11{
+    position: relative;
+    margin-left: 105mm;
+    bottom: 26mm;
+    color: white;
+}
+#fitur2{
+    position: relative;
+    margin-left: 125mm;
+    bottom: 36mm;
+    color: white;
+}
+#fitur22{
+    position: relative;
+    margin-left: 125mm;
+    bottom: 36mm;
+    color: white;
+}
+#judul_besar{
+    color: purple;
+    font-size: 60px;
+    position: relative;
+    bottom: 40mm;
+    margin-left: 40mm;
+}
+#judul_besar2{
+    font-size: 60px;
+    position: relative;
+    bottom: 55mm;
+    margin-left: 40mm;
+}
+#garis1{
+    width: 260mm;
+    position: relative;
+    bottom: 65mm;
+}
+#tulisan_addstudent{
+    position: relative;
+    bottom: 68mm;
+    margin-left: 40mm;
+}
+#button_addstudent{
+    position: relative;
+    bottom: 70mm;
+    margin-left: 40mm;
+    background: purple;
+    color: white;
+}
+#tulisanfilter{
+    position: relative;
+    margin-left: 200mm;
+    bottom: 92mm;
+}
+#tulisanfakulty{
+    position: relative;
+    margin-left: 207mm;
+    bottom: 96mm;
+}
+#menu_fakulty{
+    width: 90mm;
+    position: relative;
+    bottom: 90mm;
+    margin-left: -14mm;
+}
+
+#button_fakulty{
+    width: 90mm;
+    position: relative;
+    bottom: 85mm;
+    margin-left: 207mm;
+    background: purple;
+    color: white;
+}
+#tulisa_programstudi{
+    position: relative;
+    bottom: 77mm;
+    margin-left: -91mm;
+}
+#menu_prody{
+    width: 90mm;
+    position: relative;
+    bottom: 71mm;
+    margin-left: -30mm;
+}
+#button_prody{
+    width: 90mm;
+    position: relative;
+    bottom: 67mm;
+    margin-left: 207.5mm;
+    background: purple;
+    color: white;
+}
+#garis2{
+    width: 260mm;
+    position: relative;
+    bottom: 60mm;
+}
+#tulisan_ourstudents{
+    font-size: 60px;
+    position: relative;
+    bottom: 60mm;
+    margin-left: 120mm;
+}
+#box_search{
+    width: 260mm;
+    height: 5mm;
+    position: relative;
+    bottom: 50mm;
+    margin-left: -168mm;
+}
+#garis3{
+    width: 260mm;
+    position: relative;
+    bottom: 50mm;
+}
+#tulisan_ID{
+    font-size: 18px;
+    position: relative;
+    bottom: 50mm;
+    margin-left: 37mm;
+}
+#tulisan_fullname{
+    font-size: 18px;
+    position: relative;
+    bottom: 59mm;
+    margin-left: 93mm;
+}
+#tulisan_gender{
+    font-size: 18px;
+    position: relative;
+    bottom: 68mm;
+    margin-left: 137mm;
+}
+#tulisan_fakulty2{
+    font-size: 18px;
+    position: relative;
+    bottom: 78mm;
+    margin-left: 178mm;
+}
+#tulisan_program2{
+    font-size: 18px;
+    position: relative;
+    bottom: 87mm;
+    margin-left: 218mm;
+}
+#tulisan_action{
+    font-size: 18px;
+    position: relative;
+    bottom: 96mm;
+    margin-left: 280mm;
+}
+#garis4{
+    width: 2500mm;
+    position: relative;
+    bottom: 96mm;
+}
+#js{
+    position: relative;
+    bottom: 115mm;
+    margin-left: 3mm;
+    font-size: 20px;
+    width: 20mm;
+}
+#student{
+    font-size: 20px;
+    position: relative;
+    bottom: 70mm;
+    margin-left: 40mm;
+}
+#tulisanstudent{
+    font-size: 20px;
+    position: relative;
+    bottom: 83mm;
+    margin-left: 47mm;
+}
+#version{
+    background: green;
+    color: white;
+    position: relative;
+    bottom: 95.5mm;
+    margin-left: 120mm;
+}
+#alpha{
+    background: red;
+    color: white;
+    position: relative;
+    bottom: 95.5mm;
+    margin-left: 5mm;
+}
+#lastbackground{
+    width: 500mm;
+    height: 50px;
+    background: purple;
+    position: relative;
+    bottom: 15mm;
+}
+#made{
+    color:white;
+    position: relative;
+    font-size: 13px;
+    bottom: 30mm;
+    margin-left: 130mm;
+}
+#js_kecil{
+    font-size: 13px;
+    position: relative;
+    margin-left: 146mm;
+    bottom: 38mm;
+}
+#studentnim{
+    position: relative;
+    bottom: 19.5cm;
+    margin-left: 4cm;
+    font-size: 13px;
+}
+#nimstudent{
+    width: 8cm;
+    height: 12px;
+    position: relative;
+    bottom: 20cm;
+    margin-left: 4cm;
+}
+#studentname{
+    font-size: 13px;
+    position: relative;
+    bottom: 20cm;
+    margin-left: 4cm;
+}
+#namestudent{
+    width: 8cm;
+    height: 12px;
+    position: relative;
+    bottom: 20.5cm;
+    margin-left: 4cm;
+}
+#studentgender{
+    font-size: 13px;
+    position: relative;
+    bottom: 20.5cm;
+    margin-left: 4cm;
+}
+#jender1{
+    position: relative;
+    bottom: 20.8cm;
+    margin-left: 4cm;
+}
+#tulisanmale{
+    position: relative;
+    bottom: 21.8cm;
+    margin-left: 4.6cm;
+    font-size: 13px;
+}
+#jender2{
+    position: relative;
+    bottom: 22.1cm;
+    margin-left: 4cm;
+}
+#tulisanfamale{
+    position: relative;
+    bottom: 23cm;
+    margin-left: 4.6cm;
+    font-size: 13px;
+}
+#tulisanfakultyy{
+    position: relative;
+    bottom: 23cm;
+    margin-left: 4cm;
+    font-size: 13px;
+}
+#boxbakultasss{
+    position: relative;
+    bottom: 23.3cm;
+    margin-left: 4cm;
+    width: 8cm;
+}
